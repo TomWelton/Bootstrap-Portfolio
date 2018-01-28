@@ -1,9 +1,13 @@
 body {
-    background: url(ep_naturalblack.png);
+    background: url(dust_scratches.png);
     background: cover;
 }
 
 #aboutMe {
     background: url(vintage-concrete.png);
     background: cover;
+}
+
+#portfolioCard {
+    background: url(vintage-concrete.png);
 }
